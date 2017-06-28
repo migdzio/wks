@@ -1,11 +1,14 @@
 ##WIELKA KSIĘGA SUCHARÓW
+`` Legenda:
+    o - niezgadnięty | x - odgadnięty | ? - status nieznany            
+    ! - wyróżniony suchar | !! - świetny suchar ``
 
 [27-06-2017]
 __1.1.__ (x)
     - Jak nazywa się pies, którego coś boli?
     - Buldog.
 
-__1.2.__ (o)
+__1.2.__ (o) | (!!)
     - Jak można określić żarty z Asi?
     - Zasilanie.
 
