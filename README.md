@@ -1,2 +1,0 @@
-# wks
-Wielka Księga Sucharów
