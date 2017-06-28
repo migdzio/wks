@@ -31,3 +31,14 @@ __4.1.__ (?)
 __4.2.__ (?)
     - Co robi samobójca w toalecie?
     - Załatwia się.
+
+[03-07-2017]
+__5.1.__ (?)
+    - Ile ruchów trzeba, żeby włożyć słonia do lodówki?
+    - Trzy: otworzyć lodówkę, włożyć słonia, zamknąć lodówkę.
+    - A ile trzeba ruchów, żeby włożyć żyrafę do lodówki?
+    - Cztery: otworzyć lodówkę, wyjąć słonia, włożyć żyrafę, zamknąć lodówkę.
+
+__5.2.__ (?)
+    - Czym się różni słoń od fortepianu?
+    - Słonia można zasłonić, ale fortepianu nie zafortepianisz.
