@@ -4,7 +4,7 @@
     ! - wyróżniony suchar | !! - świetny suchar ``
 
 [27-06-2017]
-__1.1.__ (x)
+__1.1.__ (x) | żyraf
     - Jak nazywa się pies, którego coś boli?
     - Buldog.
 
@@ -13,16 +13,16 @@ __1.2.__ (o) | (!!)
     - Zasilanie.
 
 [28-06-2017]
-__2.__ (x)
+__2.__ (x) | złoty
     - Jaką jajecznicę lubi każdy fryzjer?
     - Dobrze ściętą.
 
 [29-06-2017]
-__3.1.__ (?)
+__3.1.__ (o)
     - How do you call somebody with no body and no nose?
     - Nobody knows.
 
-__3.2.__ (?)
+__3.2.__ (o) | !
     - Jak z francuska można nazwać bon na zupę?
     - Bon żur.
 

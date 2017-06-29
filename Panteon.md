@@ -10,7 +10,9 @@ __1.__
     - Zasilanie.
     
 __2.__
-
+    - Jak z francuska można nazwać bon na zupę?
+    - Bon żur.
+    
 __3.__
 
 __4.__
