@@ -4,7 +4,7 @@
     ! - wyróżniony suchar | !! - świetny suchar ``
 
 [27-06-2017]
-__1.1.__ (x) | żyraf
+__1.1.__ (x) | lk
     - Jak nazywa się pies, którego coś boli?
     - Buldog.
 
@@ -13,7 +13,7 @@ __1.2.__ (o) | (!!)
     - Zasilanie.
 
 [28-06-2017]
-__2.__ (x) | złoty
+__2.__ (x) | mg
     - Jaką jajecznicę lubi każdy fryzjer?
     - Dobrze ściętą.
 
@@ -27,15 +27,18 @@ __3.2.__ (o) | !
     - Bon żur.
 
 [30-06-2017]
-__4.1.__ (?)
+__X.X.__
+
+[03-07-2017]
+__4.1.__ (o)
     - Co robi skejter w toalecie?
     - Szaleje na desce.
 
-__4.2.__ (?)
+__4.2.__ (o)
     - Co robi samobójca w toalecie?
     - Załatwia się.
 
-[03-07-2017]
+[04-07-2017]
 __5.1.__ (?)
     - Ile ruchów trzeba, żeby włożyć słonia do lodówki?
     - Trzy: otworzyć lodówkę, włożyć słonia, zamknąć lodówkę.
