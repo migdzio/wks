@@ -8,7 +8,7 @@ __1.1.__ (x) | lk
     - Jak nazywa się pies, którego coś boli?
     - Buldog.
 
-__1.2.__ (o) | (!!)
+__1.2.__ (o) | !!
     - Jak można określić żarty z Asi?
     - Zasilanie.
 
@@ -39,12 +39,16 @@ __4.2.__ (o)
     - Załatwia się.
 
 [04-07-2017]
-__5.1.__ (?)
+__5.1.__ (o)
     - Ile ruchów trzeba, żeby włożyć słonia do lodówki?
     - Trzy: otworzyć lodówkę, włożyć słonia, zamknąć lodówkę.
     - A ile trzeba ruchów, żeby włożyć żyrafę do lodówki?
     - Cztery: otworzyć lodówkę, wyjąć słonia, włożyć żyrafę, zamknąć lodówkę.
 
-__5.2.__ (?)
+__5.2.__ (o) | !!
+    - Czym się różni słoń od fortepianu?
+    - Słonia można zasłonić, ale fortepianu nie zafortepianisz.
+
+__5.3.__ (x) | ln | bonus
     - Czym się różni słoń od fortepianu?
     - Słonia można zasłonić, ale fortepianu nie zafortepianisz.

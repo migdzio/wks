@@ -2,19 +2,21 @@
 `` stan na dzień: 28.06.2017 ``
 
 __0.__
+    - Czym się różni słoń od fortepianu?
+    - Słonia można zasłonić, ale fortepianu nie zafortepianisz.
+
+__1.__
     - Jak nazywa się ręka boksera?
     - Fajtłapa.
 
-__1.__
+__2.__
     - Jak można określić żarty z Asi?
     - Zasilanie.
     
-__2.__
+__3.__
     - Jak z francuska można nazwać bon na zupę?
     - Bon żur.
     
-__3.__
-
 __4.__
 
 __5.__
