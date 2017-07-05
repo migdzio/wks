@@ -54,7 +54,7 @@ __5.3.__ (x) | ln | bonus
     - Końduktor.
 
 [05-07-2017]
-__6.__ (?)
+__6.__ (o)
     - Ja kaszlę, on kaszle, ona kaszle - jaki to czas?
     - Czas na syrop.
 
