@@ -50,5 +50,20 @@ __5.2.__ (o) | !!
     - Słonia można zasłonić, ale fortepianu nie zafortepianisz.
 
 __5.3.__ (x) | ln | bonus
-    - Czym się różni słoń od fortepianu?
-    - Słonia można zasłonić, ale fortepianu nie zafortepianisz.
+    - Jak się nazywa konduktor wśród koni?
+    - Końduktor.
+
+[05-07-2017]
+__6.__ (?)
+    - Ja kaszlę, on kaszle, ona kaszle - jaki to czas?
+    - Czas na syrop.
+
+[06-07-2017]
+__7.__ (?)
+    - Jakie ciuchy nosi nocny marek?
+    - Markowe.
+
+[07-07-2017]
+__8.__ (?)
+    - Jak się nazywa pierścionek Kasi?
+    - Catering.
