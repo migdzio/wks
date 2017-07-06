@@ -59,11 +59,11 @@ __6.__ (o)
     - Czas na syrop.
 
 [06-07-2017]
-__7.__ (?)
-    - Jakie ciuchy nosi nocny marek?
-    - Markowe.
+__7.__ (o) | !
+    - Jak się nazywa pierścionek Kasi?
+    - Catering.
 
 [07-07-2017]
 __8.__ (?)
-    - Jak się nazywa pierścionek Kasi?
-    - Catering.
+    - Jakie ciuchy nosi nocny marek?
+    - Markowe.
