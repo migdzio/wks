@@ -64,6 +64,6 @@ __7.__ (o) | !
     - Catering.
 
 [07-07-2017]
-__8.__ (?)
+__8.__ (x) | wj
     - Jakie ciuchy nosi nocny marek?
     - Markowe.
