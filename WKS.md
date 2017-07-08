@@ -67,3 +67,58 @@ __7.__ (o) | !
 __8.__ (x) | wj
     - Jakie ciuchy nosi nocny marek?
     - Markowe.
+
+[10-07-2017]
+__9.1.__ (?)
+    - Co najczęściej mówi system operacyjny Windows?
+    - Windows Movie Maker.
+
+__9.2.__ (?)
+    - Co nosi ze sobą giermek rycerza-informatyka?
+    - Kopię zapasową.
+    
+__9.2.__ (?) | bonus
+    - Jak z francuska można nazwać mur?
+    - "Lemur".    
+    
+[11-07-2017]
+__10.1.__ (?)
+    - Dlaczego koszykarzom przed meczem podaje się wodę gazowaną?
+    - Żeby się im lepiej odbijało.    
+
+__10.2.__ (?)
+    - Jak fachowo można nazwać moment przed ugryzieniem bułki?
+    - Preambuła.
+
+[12-07-2017]
+__11.1.__ (?)
+    - Co mówi chemik do chemika, gdy zaczynają grać w karty?
+    - Potasuj.
+
+__11.2.__ (?) | bonus
+    - Co mówi Japończyk, gdy widzi okno?
+    - Toshiba.
+
+__11.3.__ (?) | bonus
+    - Jak nazywa się miasto w Polsce na dwie litery?
+    - Uć.
+    - A na trzy...?
+    - Ełk.
+
+[13-07-2017]
+__12.1.__ (?)
+    - Co robią lekarze w kuchni?
+    - Leczo.
+
+__12.2.__ (?) | bonus
+    - Jaki jest ulubiony program telewizyjny kanibali?
+    - Surowi rodzice.
+
+[14-07-2017]
+__13.1.__ (?)
+    - Jak nazywa się potomek krowy?
+    - Pokrowiec.
+
+__13.2.__ (?)
+    - Dlaczego Batman dostawał piątki z WFu na koniec roku szkolnego?
+    - Bo zawsze miał strój.
